@@ -8,7 +8,7 @@ const About=()=>{
           <h2 className="text-3xl font-extrabold text-gray-500 mb-6">Frontend Developer &<br/>AI Enthusiast</h2>
           <p className="text-lg leading-relaxed mb-8 font-bold">
             I'm Dawar Shah, a Software Engineering Student passionate about creating beautiful, functional interfaces
-            and exploring the possibilities of Artificial Intelligence.
+            and exploring the Possibilities of Artificial Intelligence.
           </p>
           <div className="flex gap-4">
             <button className="bg-gradient-to-r from-teal-500 to-emerald-600 text-white px-6 py-3 rounded-lg font-medium shadow-md hover:shadow-lg hover:scale-105 transition-all duration-300">Download CV</button>
